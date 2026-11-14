@@ -67,7 +67,7 @@ Alongside my annotation work, I continue to strengthen my skills in Data Structu
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir701&show_icons=true&theme=radical&hide_border=false" alt="Samir Brahma's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=samir701&show_icons=true&theme=radical&hide_border=false" alt="Samir Brahma's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Alongside my annotation work, I continue to strengthen my skills in Data Structu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir701&layout=compact&theme=radical&hide_border=false" alt="Samir Brahma's Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=samir701&layout=compact&theme=radical&hide_border=false" alt="Samir Brahma's Top Languages" />
 </p>
 
 ---
