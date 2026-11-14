@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samir Brahma</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Samir+Brahma" alt="Hi 👋, I'm Samir Brahma" />
+</h1>
 
 <h3 align="center">B.Tech CSE (AI & ML) | AI Data Annotation Specialist | Python & ML Developer</h3>
 
